@@ -7,8 +7,11 @@
 1~我想买些北京的特产和吃吃逛逛北京有什么[]推荐的吗~想要住酒店吗？~~~rule-want-hotel
 1~然后帮我订一间在小吃街附近的[]，要星级酒店的~想要住酒店吗？~~~rule-want-hotel
 1~能不能定个好的[]房间~想要住酒店吗？~~~rule-want-hotel
-
+1~帮我来间汽车旅馆附近的[]~想要住酒店吗？~~~rule-want-hotel
 1~附近的[]还有房间吗~想要住酒店吗？~~~rule-want-hotel
+
+0~[]订一家~不想住酒店吗？~~~rule-not-hotel
+0~帮我订一家[]~不想住酒店吗？~~~rule-not-hotel
 
 
 0~我想定间在深圳的的[]房间~想要住酒店吗？~~~rule-want-hotel
@@ -44,6 +47,10 @@
 
 1~深圳福田区有什么[]~想要住酒店吗？~~~rule-want-hotel
 0~深圳福田区有什么[]~不想住酒店吗？~~~rule-not-hotel
+
+1~我都要看看~想要看火车和飞机吗？~~~rule-find-all
+1~我都要看看~想要看火车和飞机吗？~~~rule-find-all
+1~我都要看看~想要看火车和飞机吗？~~~rule-find-all
 
 
 1~深圳北附近的[]比较多~想要住酒店吗？~~~rule-want-hotel
@@ -120,6 +127,8 @@
 
 1~我非常讨厌住[]~不想住酒店吗？~~~rule-not-hotel
 
+1~我明天要去北京[]3天~想要入住吗？~~~rule-find-checkin
+
 1~我要在杭州[]2天~想要入住吗？~~~rule-find-checkin
 1~我想下星期一[]~想要入住吗？~~~rule-find-checkin
 1~[]3晚~想要入住吗？~想要入住吗？~~~rule-find-checkin
@@ -146,6 +155,57 @@
 
 1~到天津之后我要玩一段是时间我会[]3天~想要入住吗？~~~rule-find-checkin
 ——————hj——————————————————————————————
+1~我要[]杭州~想要出行吗？~~~rule-find-traffic
+1~我要坐飞机[]杭州~想要出行吗？~~~rule-find-traffic
+1~北京[]上海~想要出行吗？~~~rule-find-traffic
+1~从北京[]上海~想要出行吗？~~~rule-find-traffic
+1~从北京[]去上海~想要出行吗？~~~rule-find-traffic
+1~北京[]上海~想要出行吗？~~~rule-find-traffic
+1~从北京[]飞往上海~想要出行吗？~~~rule-find-traffic
+1~我要[]~想要出行吗？~~~rule-find-traffic
+1~我想订一张最便宜的上海[]天津的票~想要出行吗？~~~rule-find-traffic
+1~我想定一张上海[]北京的机票，不要东方航空~想要出行吗？~~~rule-find-traffic
+1~上海[]达北京~想要出行吗？~~~rule-find-traffic
+1~去[]上海~想要出行吗？~~~rule-find-traffic
+1~北京去[]上海~想要出行吗？~~~rule-find-traffic
+1~帮我订一张明天从上海[]北京的机票~想要出行吗？~~~rule-find-traffic
+1~[]订一个月的房间，价格合适~想要出行吗？~~~rule-find-traffic
+1~帮我订明天从上海[]达北京的机票~想要出行吗？~~~rule-find-traffic
+1~我要一张[]北京的机票~想要出行吗？~~~rule-find-traffic
+1~明天[]北京的机票还有吗~想要出行吗？~~~rule-find-traffic
+1~明天[]北京的机票有没有~想要出行吗？~~~rule-find-traffic
+
+1~想坐飞机[]北京去玩~想要出行吗？~~~rule-find-traffic
+1~明天来一张[]北京的机票~想要出行吗？~~~rule-find-traffic
+1~帮朋友订从北京[]的机票~想要出行吗？~~~rule-find-traffic
+1~帮我订明天[]上海国航的票~想要出行吗？~~~rule-find-traffic
+1~明天从杭州[]的机票订一张~想要出行吗？~~~rule-find-traffic
+1~杭州[]南京动车票~想要出行吗？~~~rule-find-traffic
+
+1~我要买张杭州[]南京的动车票~想要出行吗？~~~rule-find-traffic
+1~有杭州[]上海的车票吗~想要出行吗？~~~rule-find-traffic
+1~给我来张从北京[]杭州的动词商务座的成人票~想要出行吗？~~~rule-find-traffic
+1~杭州[]上海，明天出发的车票有吗~想要出行吗？~~~rule-find-traffic
+1~有明天杭州[]上海的车票吗~想要出行吗？~~~rule-find-traffic
+1~有明天上午从杭州[]上海的车票吗~想要出行吗？~~~rule-find-traffic
+1~有没有从杭州[]上海的车票~想要出行吗？~~~rule-find-traffic
+1~还有明天杭州[]上海的，有吗~想要出行吗？~~~rule-find-traffic
+1~还有[]上海的票吗~想要出行吗？~~~rule-find-traffic
+1~杭州[]上海，明天上午的车票有吗~想要出行吗？~~~rule-find-traffic
+
+1~有杭州到上海的[]吗~想要出行吗？~~~rule-find-traffic
+1~想到北京[]玩~想要出行吗？~~~rule-find-traffic
+1~我要[]绍兴出差~想要出行吗？~~~rule-find-traffic
+1~我明天[]北京出差~想要出行吗？~~~rule-find-traffic
+1~我明天去北京{出差}~想要出行吗？~~~rule-find-traffic
+
+1~明天想飞[]北京~想要出行吗？~~~rule-find-traffic
+1~想[]北京玩，坐飞机~想要出行吗？~~~rule-find-traffic
+1~明天飞北京，[]那边玩~想要出行吗？~~~rule-find-traffic
+1~明天[]北京那边玩~想要出行吗？~~~rule-find-traffic
+1~北京[]打算坐飞机~想要出行吗？~~~rule-find-traffic
+1~从杭州[]~想要出行吗？~~~rule-find-traffic
+
 
 1~我想要坐[]~想要坐飞机吗？~~~rule-plane-want
 1~我要坐[]~想要坐飞机吗？~~~rule-plane-want
@@ -329,6 +389,42 @@
 1~南方航空有到南宁的[]吗~想要坐飞机吗？~~~rule-plane-want
 1~想定南航的[]~想要坐飞机吗？~~~rule-plane-want
 ————————wxm————————————————————————————
+1~我想从杭州[]上海，明天的动车票还有吗~想要出行吗？~~~rule-find-traffic
+1~我想从杭州{去}上海，明天的动车票还有吗~想要出行吗？~~~rule-find-traffic
+1~我想从杭州去上海，明天的动车票还有吗~想要出行吗？~~~rule-find-traffic
+1~今天下午[]杭州~想要出行吗？~~~rule-find-traffic
+1~从杭州[]厦门旅游~想要出行吗？~~~rule-find-traffic
+1~下午有没有从上海[]杭州二等座的票~想要出行吗？~~~rule-find-traffic
+1~我想[]广州旅游，你帮我订张票吧~想要出行吗？~~~rule-find-traffic
+1~有后天下午10点之后[]的吗？~想要出行吗？~~~rule-find-traffic
+1~我[]两张~想要出行吗？~~~rule-find-traffic
+1~我{要定}两张~想要出行吗？~~~rule-find-traffic
+1~我要订张不超过50块钱的[]~想要出行吗？~~~rule-find-traffic
+1~我[]青岛旅游，当然是住那了~想要出行吗？~~~rule-find-traffic
+1~[]深圳机场东的~想要出行吗？~~~rule-find-traffic
+1~能不能帮我买[]深圳机场东的票？~想要出行吗？~~~rule-find-traffic
+1~能不能帮我买{到}深圳机场东的票？~想要出行吗？~~~rule-find-traffic
+1~定完[]后，帮我定房间~想要出行吗？~~~rule-find-traffic
+1~[]海南三亚的~想要出行吗？~~~rule-find-traffic
+1~重庆最近很火，想[]玩玩~想要出行吗？~~~rule-find-traffic
+1~来张学生[]吗~想要出行吗？~~~rule-find-traffic
+1~从桂林站买票[]会不会比较近一点~想要出行吗？~~~rule-find-traffic
+1~她要带一个孩子，一张成人[]，一张儿童票~想要出行吗？~~~rule-find-traffic
+1~她要带一个孩子，一张成人{票}，一张儿童票~想要出行吗？~~~rule-find-traffic
+1~过两天要去长城玩两天，能帮我订张[]去吗~想要出行吗？~~~rule-find-traffic
+1~过两天要去长城玩两天，能帮我订张{票}去吗~想要出行吗？~~~rule-find-traffic
+1~最好有打折的或者是特价[]~想要出行吗？~~~rule-find-traffic
+1~[]惠州的~想要出行吗？~~~rule-find-traffic
+1~可以预订几张到深圳北的[]吗~想要出行吗？~~~rule-find-traffic
+1~可以预订几张到深圳北的{票}吗~想要出行吗？~~~rule-find-traffic
+1~我能不能买一张到新白云机场的[]~想要出行吗？~~~rule-find-traffic
+1~我能不能买一张到新白云机场的{票}~想要出行吗？~~~rule-find-traffic
+1~能不能帮我买到深圳机场东的[]？~想要出行吗？~~~rule-find-traffic
+1~能不能帮我买到深圳机场东的{票}？~想要出行吗？~~~rule-find-traffic
+1~我明天[]北京出差~想要出行吗？~~~rule-find-traffic
+1~我明天{去}北京出差~想要出行吗？~~~rule-find-traffic
+
+
 1~我想要坐[]~想要坐火车吗？~~~rule-want-train
 1~给我看看[]~想要坐火车吗？~~~rule-want-train
 1~我不要坐[]~不想要坐火车吗？~~~rule-not-train
